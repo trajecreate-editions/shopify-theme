@@ -2,7 +2,7 @@
 
 This workspace is set up for customizing the Horizon Shopify theme.
 
-## Structure
+## Structure1
 
 - `templates/` — Main page templates (e.g., index.liquid)
 - `sections/` — Reusable sections (e.g., header.liquid)
